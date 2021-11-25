@@ -1,5 +1,5 @@
 .outimg{
-    width: 1150px;
+    width: 1050px;
     height: 700px;
     position: absolute;
     top: 100px;
@@ -7,14 +7,17 @@
 }
 
 #navcheck{
-    float: right;
-    margin-right: 30px;
+    position:absolute;
+    /* float: right; */
+    top: 280px;
+    left: 1300px;
     color:black;
     
 }
 
 #navzones{
-    float: right;
-    margin-right: 30px;
+    position:absolute;
+    top:350px;
+    left: 1300px;
     clear: both;    
 }
