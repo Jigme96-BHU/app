@@ -10,7 +10,7 @@
     position:absolute;
     /* float: right; */
     top: 280px;
-    left: 1250px;
+    left: 1170px;
     color:black;
     
 }
@@ -18,6 +18,6 @@
 #navzones{
     position:absolute;
     top:350px;
-    left: 1250px;
+    left: 1170px;
     clear: both;    
 }
